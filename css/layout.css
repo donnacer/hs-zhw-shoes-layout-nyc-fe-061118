@@ -23,5 +23,12 @@
 }
 
 /* Posititoning Classes */
-
-
+#summer {
+  margin-right: 30px;
+  width:-67%;
+  float: left;
+}
+#feature-brands {
+  display:inline-block;
+  width: 30%;
+}
